@@ -1,7 +1,7 @@
 [submodule "PX4-simulation"]
 	path = PX4-simulation
 	url = git@github.com:ARG-NCTU/PX4-Autopilot.git
-	branch = master
+	branch = devel-drone-stable
 [submodule "catkin_ws/src/vrx"]
 	path = catkin_ws/src/vrx
 	url = git@github.com:ARG-NCTU/vrx.git
