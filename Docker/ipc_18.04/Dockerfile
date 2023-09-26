@@ -216,6 +216,8 @@ RUN wget https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts/
 RUN chmod +x install_geographiclib_datasets.sh
 RUN sudo ./install_geographiclib_datasets.sh
 RUN pip3 install --user toml
+RUN pip2 install \
+    pytest 
 
 ##################################### Settings #####################################
 
