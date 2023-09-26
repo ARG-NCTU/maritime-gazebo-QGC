@@ -45,7 +45,7 @@ source build_all.sh
 
 ### Download QGC
 
-* QGroundControl (QGC) provides full flight control and mission planning for any MAVLink enabled drone. Its primary goal is ease of use for professional users and developers. [pleas follow this link and install QGC](https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html#ubuntu)
+* QGroundControl (QGC) provides full flight control and mission planning for any MAVLink enabled drone. Its primary goal is ease of use for professional users and developers. [please follow this link and install QGC](https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html#ubuntu)
 
 ## Part 2. Launch simulation environment and run testing script
 
